@@ -1,7 +1,7 @@
 # Laura Karagizova
 
 👩‍💻 Aspiring Frontend Developer  
-📧 Contact: [@huge_performanz] (https://t.me/@wliqueur)
+📧 Contact: [@huge_performanz](https://t.me/@wliqueur)
 
 ---
 
