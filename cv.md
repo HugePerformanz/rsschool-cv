@@ -20,7 +20,7 @@ I have some experience building simple layouts using HTML and CSS — this hands
 
 - Languages & Markup: HTML, CSS
 - Version Control: Git, GitHub
-- Development Tools: VS Code, Figma (basic)
+- Development Tools: WebStorm, Figma(basic), Canva(basic)
 
 ---
 
